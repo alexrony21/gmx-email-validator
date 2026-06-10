@@ -6,12 +6,19 @@
 # Features
 
 ⚡ **Fast Checking** — Quickly validates accounts with high-speed processing.
+
 🎯 **Accurate Result** — Delivers precise and reliable checking results.
+
 💰 **High CPM with Good Proxies** — Achieves better CPM performance when used with quality proxies.
+
 ♾️ **Unlimited Checking** — No limits on the number of emails you can check.
+
 🔄 **Free Lifetime Updates** — Receive all future updates at no extra cost.
+
 🚀 **MultiThreading Supported** — Uses multiple threads for faster and more efficient checking.
+
 🌍 **Supports All GMX Domains** — Compatible with all GMX domains including `.com`, `.de`, `.net`, and more.
+
 
 ## 🤝 Get in Touch
 
